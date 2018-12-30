@@ -1,5 +1,7 @@
 #Code Comming Soon
+
 #PIC Programming Tutorial #14 - Controlling A Servo
+
 This demonstrates how  to control a servo via the uart using the PWM peripheral. Using the XC8 compiler with MPLAB X and a PIC18F4520.
 
 [![PIC Programming Tutorial #14 - Controlling A Servo](https://img.youtube.com/vi/FBvHpBY3Gao/0.jpg)](https://www.youtube.com/watch?v=FBvHpBY3Gao "PIC Programming Tutorial #14 - Controlling A Servo")
